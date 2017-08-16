@@ -20,17 +20,12 @@
                     "enum": [ "Instalou" ],
                     "id": "/properties/content/properties/status",
                     "type": "string"
-                },
-                "teste": {
-                    "id": "/properties/content/properties/status",
-                    "type": "string"
                 }
             },
             "required": [
                 "status",
                 "chassi",
-                "apolice",
-                "teste"
+                "apolice"
             ],
             "type": "object"
         },
